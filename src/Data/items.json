@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"samsung 1",
+        "img":"images/phone1.jpg",
+        "price":800000,
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, totam.",
+        "colors":["black", "gold", "blue"]
+    },
+    {
+        "id":1,
+        "name":"samsung 2",
+        "img":"images/phone2.jpg",
+        "price":900000,
+         "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, totam.",
+        "colors":["black", "gold", "blue"]
+    },
+    {
+        "id":1,
+        "name":"samsung 3",
+        "img":"images/phone3.webp",
+        "price":700000,
+         "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, totam.",
+        "colors":["black", "gold", "blue"]
+    }
+]
